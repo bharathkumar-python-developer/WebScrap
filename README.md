@@ -39,4 +39,4 @@ Used INSERT OR IGNORE for safe, duplicate-free storage.
 
 🔗 Looking forward to expanding this into a full-stack data visualization dashboard!
 
-# Python #WebScraping #SQLite #APIs #DataEngineering #ProjectShowcase #RESTAPI #PortfolioProject
+# Python WebScraping SQLite APIs DataEngineering ProjectShowcase RESTAPI PortfolioProject
